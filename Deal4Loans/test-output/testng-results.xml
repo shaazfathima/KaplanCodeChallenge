@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18231" started-at="2019-05-05T18:48:58Z" finished-at="2019-05-05T18:49:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18231" started-at="2019-05-05T18:48:58Z" finished-at="2019-05-05T18:49:17Z">
+      <class name="com.automationFramework.LoanApplication">
+        <test-method status="PASS" signature="InitiateDriver()[pri:0, instance:com.automationFramework.LoanApplication@13eb8acf]" name="InitiateDriver" is-config="true" duration-ms="10410" started-at="2019-05-05T18:48:58Z" finished-at="2019-05-05T18:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitiateDriver -->
+        <test-method status="PASS" signature="ApplyLoan()[pri:0, instance:com.automationFramework.LoanApplication@13eb8acf]" name="ApplyLoan" duration-ms="7786" started-at="2019-05-05T18:49:09Z" finished-at="2019-05-05T18:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplyLoan -->
+      </class> <!-- com.automationFramework.LoanApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
